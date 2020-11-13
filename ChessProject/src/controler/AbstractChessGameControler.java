@@ -29,7 +29,7 @@ public abstract class AbstractChessGameControler implements ChessGameControlers 
 
 	/**
 	 * constructor
-	 * <p>
+	 * <p>uiiiiiiiiiioii
 	 * @param chessGame
 	 */
 	public AbstractChessGameControler(ChessGame chessGame) {
